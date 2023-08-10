@@ -4,7 +4,7 @@ import imgGen
 utc = datetime.timezone.utc
 
 # If no tzinfo is given then UTC is assumed.
-time = datetime.time(hour=22, minute=6, tzinfo=utc)
+time = datetime.time(hour=3, minute=0, tzinfo=utc)
 channelList = []
 class taskCog(commands.Cog):
     def __init__(self, bot):
