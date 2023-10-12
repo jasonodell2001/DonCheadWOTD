@@ -24,6 +24,6 @@ async def changePref(ctx, pref: str):
 
 @bot.command()
 async def hello(ctx):
-    await ctx.send("https://i.imgflip.com/7tcf74.jpg")
+    await ctx.send("https://i.imgflip.com/807elh.jpg")
 
 bot.run('INSERT TOKEN HERE')
